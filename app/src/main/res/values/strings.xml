@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">API</string>
+    <string name="a">Nom: Darth vader</string>
+    <string name="name">Nom: Darth Vader</string>
+    <string name="height">Hauteur: 6\'7\"</string>
+    <string name="b">136kg</string>
+    <string name="weight">Poids: 136kg</string>
+    <string name="date">Date de Naissance: 41BBY</string>
+    <string name="eye">Eye Colour: Yellow</string>
+    <string name="gender">Gender: Male</string>
+    <string name="hair">Hair Colour: None</string>
+</resources>
